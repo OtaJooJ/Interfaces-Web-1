@@ -1,0 +1,22 @@
+#container
+    {background-color: rgb(156, 161, 161);
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;}
+
+#container2
+    {background-color: rgb(156, 161, 161);
+    height: 200px;}
+
+#container3
+    {background-color: rgb(156, 161, 161);
+    height: 200px;
+    display: flex;
+    flex-direction: row;}
+
+.item
+    {background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;}
